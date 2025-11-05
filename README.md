@@ -15,14 +15,14 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 ### 🎓 Education
 
 -   **Bachelor of Technology (B.Tech) - Computer Science & Engineering (AI)**
-    -   *Aditya Engineering College*, Surampalem, Andhra Pradesh
+    -   *Mohan Babu University*, Tirupathi, Andhra Pradesh
     -   *Expected Graduation*: 2026
-    -   *Current CGPA*: 8.6
+    -   *Current CGPA*: 8.22
 
 -   **Intermediate (MPC)**
-    -   *Sri Chaitanya Junior College*, Vijayawada, Andhra Pradesh
+    -   *Sri Chaitanya Junior College*, Kurnool, Andhra Pradesh
     -   *Completed*: 2022
-    -   *Percentage*: 96.4%
+    -   *Percentage*: 84.9%
 
 ---
 
@@ -31,7 +31,8 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 | Category                  | Technologies                                         |
 | ------------------------- | ---------------------------------------------------- |
 | **Programming Languages** | Python, Java, C, SQL                                 |
-| **Frameworks & Libraries**| Flask, Pandas, NumPy, Scikit-learn, TensorFlow       |
+| **Frameworks & Libraries**| Flask, Django, Tensorflow, Pandas, NumPy, Scikit-learn, 
+                              matplotlib ,      |
 | **Databases**             | PostgreSQL, MySQL                                    |
 | **Cloud, DevOps & Tools** | Docker, Git, GitHub, Jupyter Notebook                |
 | **Areas of Expertise**    | Prompt Engineering, Data Analytics, Machine Learning |
