@@ -31,10 +31,10 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 | Category                  | Technologies                                                              |
 | ------------------------- | ----------------------------------------------------                      |
 | **Programming Languages** | Python, Java, C, SQL                                                      |
-| **Frameworks & Libraries**| Flask, Django, Tensorflow, Pandas, NumPy, Scikit-learn, matplotlib ,      |
+| **Frameworks & Libraries**| Flask, Django, Tensorflow, Pandas, NumPy, Scikit-learn, Matplotlib        |
 | **Databases**             | PostgreSQL, MySQL                                                         |
 | **Cloud, DevOps & Tools** | Docker, Git, GitHub, Jupyter Notebook                                     |
-| **Areas of Expertise**    | Prompt Engineering, Data Analytics, Machine Learning                      |
+| **Areas of Expertise**    | Python Developer, Software Engineer, Data Analytics, Machine Learning                      |
 
 ---
 
