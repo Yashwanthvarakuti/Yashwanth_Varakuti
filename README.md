@@ -28,14 +28,13 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 
 ### 🛠️ Technical Skills
 
-| Category                  | Technologies                                         |
-| ------------------------- | ---------------------------------------------------- |
-| **Programming Languages** | Python, Java, C, SQL                                 |
-| **Frameworks & Libraries**| Flask, Django, Tensorflow, Pandas, NumPy, Scikit-learn, 
-                              matplotlib ,      |
-| **Databases**             | PostgreSQL, MySQL                                    |
-| **Cloud, DevOps & Tools** | Docker, Git, GitHub, Jupyter Notebook                |
-| **Areas of Expertise**    | Prompt Engineering, Data Analytics, Machine Learning |
+| Category                  | Technologies                                                              |
+| ------------------------- | ----------------------------------------------------                      |
+| **Programming Languages** | Python, Java, C, SQL                                                      |
+| **Frameworks & Libraries**| Flask, Django, Tensorflow, Pandas, NumPy, Scikit-learn, matplotlib ,      |
+| **Databases**             | PostgreSQL, MySQL                                                         |
+| **Cloud, DevOps & Tools** | Docker, Git, GitHub, Jupyter Notebook                                     |
+| **Areas of Expertise**    | Prompt Engineering, Data Analytics, Machine Learning                      |
 
 ---
 
