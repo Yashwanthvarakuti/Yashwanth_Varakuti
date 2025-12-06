@@ -1,3 +1,4 @@
+<!-- ...existing code... -->
 ### Hi, I'm Yashwanth Varakuti 👋
 
 **Aspiring Software Engineer | Prompt Engineer | AI Enthusiast**
@@ -9,6 +10,7 @@
 I'm a passionate and driven Aspiring Software Engineer specializing in AI, Full-Stack Development, and Data Analytics. I have hands-on experience developing intelligent systems, building scalable web applications, and working on data-driven solutions.
 
 Throughout my journey, I’ve focused on combining creativity with technical knowledge to solve real-world problems, streamline processes, and automate tasks. I enjoy working with large language models, creating efficient backend architectures, and contributing to open-source projects. My goal is to continuously evolve as a tech professional by learning new technologies, applying best practices, and building impactful solutions that help industries innovate.
+
 
 ---
 
@@ -37,6 +39,14 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 | **Areas of Expertise**    | Python Developer, Software Engineer, Data Analytics, Machine Learning                      |
 
 ---
+### 🚀 Projects (concise)
+
+- 
+- **Face Mask Detection** — Lightweight CNN-based detector for image and real-time webcam inference using OpenCV, with options for quantization/edge deployment. Repo: [https://github.com/Yashwanthvarakuti/Face_Mask_Detection]
+
+- **Visionary Captions** — Generates captions from photos/videos and recognizes signals & signs (traffic signs, hand gestures). Lightweight API and demo included. Repo: [https://github.com/Yashwanthvarakuti/visionary-captions]
+
+- **Multi-API Chatbot (Flask)** — Modular backend that integrates multiple LLM providers (OpenAI / Gemini / Perplexity) with streaming support and role-aware prompts. Repo: [https://github.com/Yashwanthvarakuti/chatbot]
 
 ### 🚀 Coding & Profile Links
 
@@ -58,3 +68,4 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 ---
 
 > “Strive to build solutions that make an impact, automate intelligently, and push the limits of innovation.” 🌟
+<!-- ...existing code... -->
