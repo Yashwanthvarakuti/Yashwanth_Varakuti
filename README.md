@@ -19,7 +19,7 @@ Throughout my journey, I’ve focused on combining creativity with technical kno
 -   **Bachelor of Technology (B.Tech) - Computer Science & Engineering (AI)**
     -   *Mohan Babu University*, Tirupathi, Andhra Pradesh
     -   *Expected Graduation*: 2026
-    -   *Current CGPA*: 8.22
+    -   *Current CGPA*: 8.32
 
 -   **Intermediate (MPC)**
     -   *Sri Chaitanya Junior College*, Kurnool, Andhra Pradesh
